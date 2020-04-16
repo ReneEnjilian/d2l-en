@@ -1,0 +1,5 @@
+name,semester,country,age,id
+rene,7,germany,22,1
+jonas,5,germany,NaN,NaN
+alejo,7,columbia,NaN,3
+brito,7,ecuador,NaN,4
